@@ -43,6 +43,12 @@ This project analyzes Nigeria's official annual inflation rate from 1960 to 2024
 | 2010s | ~11% | Relative stability |
 | 2020s | ~22%+ | COVID supply shocks, 2023 subsidy removal, naira devaluation |
 
+## Dashboard
+
+![Nigeria Inflation Rate 1960–2024 Dashboard](dashboard.png)
+
+**[Explore the interactive version on Tableau Public →](https://public.tableau.com/views/NigeriaInflationDashboard_17767246903920/Dashboard1)**
+
 ## Dashboard Interpretation
 
 **1960s — The Hopeful Beginning:** Near-zero average inflation. A young, largely agricultural economy with stable prices — the foundation that oil money would later erode.
@@ -70,12 +76,6 @@ This project analyzes Nigeria's official annual inflation rate from 1960 to 2024
 - **Microsoft Excel** — data cleaning and organization
 - **EViews** — OLS regression with AR(1) correction, unit root/stationarity testing
 - **Tableau** — interactive dashboard (trend line + decade comparison)
-
-## Dashboard
-
-![Nigeria Inflation Rate 1960–2024 Dashboard](images/dashboard.png)
-
-**[Explore the interactive version on Tableau Public →](https://public.tableau.com/views/NigeriaInflationDashboard_17767246903920/Dashboard1)**
 
 ## Author
 
